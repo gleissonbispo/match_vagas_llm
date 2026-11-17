@@ -123,4 +123,11 @@ OCR, embeddings e LLM rodam localmente. Nenhum currículo é enviado a serviços
 
 ## Autor
 
-Gleisson Bispo · [gleissonbispo.com.br](https://gleissonbispo.com.br) · [LinkedIn](https://www.linkedin.com/in/gleissonbispo)
+**Gleisson Bispo**, Gerente de People Analytics. Escrevo sobre dados de pessoas, Data Science e IA aplicada a RH.
+
+- Site: [gleissonbispo.com.br](https://gleissonbispo.com.br) (projetos, artigos, radar de notícias e vagas de People Analytics)
+- Este projeto no site: [gleissonbispo.com.br/projetos/match-curriculo-vagas-llm](https://gleissonbispo.com.br/projetos/match-curriculo-vagas-llm)
+- LinkedIn: [linkedin.com/in/gleissonbispo](https://www.linkedin.com/in/gleissonbispo)
+- Newsletter: [People Analytics LAB](https://www.linkedin.com/newsletters/people-analytics-lab-7423156507271368704), no LinkedIn
+- GitHub: [@gleissonbispo](https://github.com/gleissonbispo)
+
